@@ -1,0 +1,26 @@
+{
+  "name": "gilded_rose_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjyblack/gilded_rose.git"
+  },
+  "author": "Ben Black",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjyblack/gilded_rose/issues"
+  },
+  "homepage": "https://github.com/benjyblack/gilded_rose#readme",
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
